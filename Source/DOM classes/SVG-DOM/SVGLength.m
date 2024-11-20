@@ -465,7 +465,7 @@ static float cachedDevicePixelsPerInch;
         
         // iPad mini 7
         @"iPad15,6": @326,
-        @"iPad15,7": @362,
+        @"iPad15,7": @326,
 
         // iPad Pro 11-inch (M4)
         @"iPad16,3": @264,
